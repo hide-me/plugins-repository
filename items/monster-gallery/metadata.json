@@ -9,12 +9,11 @@
 	"information_url": "https://github.com/multicolor-rgb/Bludit-MonsterGallery/releases/tag/1.0",
 	"description": "Gallery plugin you want use it!",
 	"features": {
-		"0": "Multi galleries creator",
-		"1": "5 types galleries",
-		"2": "shortcode compatible with tinyMCE",
+		"0": "Multi galleries creator.",
+		"1": "5 types galleries.",
+		"2": "shortcode compatible with tinyMCE.",
 		"3": "Easy filebrowser & uploader.",
-    "4": "Automatic thumbnails creator with your size"
-
+		"4": "Automatic thumbnails creator with your size."
 	},
 	"description_de": "",
 	"features_de": {
@@ -23,9 +22,13 @@
 	"features_es": {
 
 	},
-	"description_ru": "",
+	"description_ru": "Прекрасный плагин галереи, который вы захотите использовать и использовать!",
 	"features_ru": {
- 
+		"0": "Создание нескольких галерей.",
+		"1": "5 различный стилей галерей.",
+		"2": "Шорткод совместимый с редактором tinyMCE",
+		"3": "Удобный файловый менеджер и загрузчик.",
+		"4": "Автоматическое создание миниатюр с выбранным разрешением (размером)."
 	},
 	"author_username": "multicolor"
 }
